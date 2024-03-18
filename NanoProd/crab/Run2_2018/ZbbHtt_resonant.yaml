@@ -1,0 +1,11 @@
+config:
+  params:
+    sampleType: mc
+    era: Run2_2018
+
+ZbbHtt_500: local:root://eos.grif.fr///eos/grif/cms/llr/store/user/evernazz/MiniAOD/Zprime/Step_5
+# ZbbHtt_500: local:/eos/home-e/evernazz/HTTMiniAOD/MiniAOD_ZbbHtautau/Zprime_Zh_Zbbhtautau_M500
+# ZbbHtt_1000: local:/eos/home-e/evernazz/HTTMiniAOD/MiniAOD_ZbbHtautau/Zprime_Zh_Zbbhtautau_M1000
+# ZbbHtt_2000: local:/eos/home-e/evernazz/HTTMiniAOD/MiniAOD_ZbbHtautau/Zprime_Zh_Zbbhtautau_M2000
+# ZbbHtt_3000: local:/eos/home-e/evernazz/HTTMiniAOD/MiniAOD_ZbbHtautau/Zprime_Zh_Zbbhtautau_M3000
+# ZbbHtt_4000: local:/eos/home-e/evernazz/HTTMiniAOD/MiniAOD_ZbbHtautau/Zprime_Zh_Zbbhtautau_M4000

@@ -1,0 +1,10 @@
+config:
+  params:
+    sampleType: mc
+    era: Run2_2018
+
+# ZttHbb_500: local:/eos/home-e/evernazz/HTTMiniAOD/MiniAOD_ZbbHtautau/Zprime_Zh_Ztautauhbb_M500
+# ZttHbb_1000: local:/eos/home-e/evernazz/HTTMiniAOD/MiniAOD_ZbbHtautau/Zprime_Zh_Ztautauhbb_M1000
+# ZttHbb_2000: local:/eos/home-e/evernazz/HTTMiniAOD/MiniAOD_ZbbHtautau/Zprime_Zh_Ztautauhbb_M2000
+# ZttHbb_3000: local:/eos/home-e/evernazz/HTTMiniAOD/MiniAOD_ZbbHtautau/Zprime_Zh_Ztautauhbb_M3000
+# ZttHbb_4000: local:/eos/home-e/evernazz/HTTMiniAOD/MiniAOD_ZbbHtautau/Zprime_Zh_Ztautauhbb_M4000

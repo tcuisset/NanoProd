@@ -3,7 +3,7 @@ params:
   customise: NanoProd/NanoProd/customize.customize
   outputs:
     - file: nanoHTT.root
-      crabOutput: T2_FR_GRIF_LLR:/store/user/evernazz/bbtt-prod #T2_CH_CERN:/store/group/phys_tau/kandroso/htt_skim_v1_prod/Run2_2016
+      crabOutput: T2_FR_GRIF_LLR:/store/user/evernazz/bbtt-prod/PrivateZH #T2_CH_CERN:/store/group/phys_tau/kandroso/htt_skim_v1_prod/Run2_2016
       finalOutput: T2_FR_GRIF_LLR:/store/user/evernazz/bbtt/nanoV10 #T2_CH_CERN:/store/group/phys_tau/kandroso/htt_skim_v1/Run2_2016
       skimCfg: skim_htt.yaml
       skimSetup: skim
@@ -37,7 +37,7 @@ localProcessing:
 targetOutputFileSize: 2048 # MiB
 renewKerberosTicket: True
 #htmlReport: T2_FR_GRIF_LLR:/store/user/evernazz/bbtt-prod
-htmlReport: root://eosuser.cern.ch///eos/user/t/tcuisset/www/zzbbtt/HTT-reprocess
+htmlReport: root://eosuser.cern.ch///eos/user/e/evernazz/bbtt/nanoV10
 # htmlReport: T3_CH_CERNBOX:/eos/home-e/evernazz/bbtt/nanoV10 #T3_CH_CERNBOX:/store/user/kandroso/www/HLepRare/skim_v1/Run2_2016
 whitelistFinalRecovery:
   - T1_DE_KIT
